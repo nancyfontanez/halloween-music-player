@@ -110,9 +110,9 @@ h3 {
 @media screen and (max-width: 376px) {
 
   body {
-    background: #242323;
+    background: #0f0f0f;
   }
-  
+
   .player-container {
     width: 95vw;
   }
