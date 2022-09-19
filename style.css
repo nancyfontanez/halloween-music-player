@@ -107,7 +107,7 @@ h3 {
 }
 
 /* Media Query: iPhone (Vertical) */
-@media screen and (max-width: 412px) {
+@media screen and (max-width: 414px) {
 
   body {
     background: #0f0f0f;
